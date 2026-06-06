@@ -1,3 +1,5 @@
+![Logo](ironshell-x86_banner.svg)
+
 # 🔩 ironshell-x86 – Bare-Metal Shellcode Sandbox
 
 **ironshell-x86** is a bare-metal x86 shellcode execution and analysis environment written entirely in 16-bit Assembly. It runs directly from a bootable disk image — no OS, no runtime, no libc. Just raw silicon.
