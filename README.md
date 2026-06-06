@@ -1,4 +1,4 @@
-![Logo](ironshell-x86_banner.svg)
+![Logo](ironshell_x86_banner.svg)
 
 # 🔩 ironshell-x86 – Bare-Metal Shellcode Sandbox
 
